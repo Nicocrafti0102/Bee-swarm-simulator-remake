@@ -21,10 +21,11 @@ For obvious reasons all the inspiration come from @Onett and I don't want to res
 
 
 ***
-***
+
 TO LAUNCH the game without unity download .exe game file and launch it
+
 ***
-# Changelogs :
-***
-V0.1 -- Creating the base
-***
+#    Changelogs :
+
+-V0.1 -- Creating the base
+
